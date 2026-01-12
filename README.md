@@ -5,6 +5,7 @@ A complete end-to-end machine learning solution for the Kaggle competition
 
 This project focuses on robust feature engineering, advanced preprocessing,
 and ensemble-based regression models to accurately predict house prices.
+<img width="1024" height="1536" alt="hous" src="https://github.com/user-attachments/assets/31333946-bbab-42e9-af5b-9047ab4658b8" />
 
 ---
 
